@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="500"
+"AutoRepeatRate"="30"
+"BounceTime"="40"
+"DelayBeforeAcceptance"="10"
+"Flags"="59"
+"Last BounceKey Setting"=dword:00000028
+
+
+[HKEY_USERS\.DEFAULT\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="500"
+"AutoRepeatRate"="30"
+"BounceTime"="40"
+"DelayBeforeAcceptance"="10"
+"Flags"="59"
+"Last BounceKey Setting"=dword:00000028
+
